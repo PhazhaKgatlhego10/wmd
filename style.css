@@ -100,7 +100,7 @@ nav ul ul li a i {
 .banner{
   width: 100%;
   min-height:95vh;
-  background: url(images/warner\ bros.jpeg) no-repeat;
+  background: url(image/warner\ bros.jpeg) no-repeat;
   background-size: cover;
   background-position: center;
   display: flex;
@@ -227,7 +227,7 @@ margin-bottom: 30px;
 /* Feedback page */
 
 section{
-  background: url(images/329616.jpg) no-repeat center;
+  background: url(image/329616.jpg) no-repeat center;
   min-height: 90.8vh;
   text-align: center;
   background-color: #151515;
@@ -381,7 +381,7 @@ form .btn button:hover{
 
 .contact-section{
   height: 80.2vh;
-  background: url(images/329616.jpg) no-repeat center;
+  background: url(image/329616.jpg) no-repeat center;
   background-color: #151515;
   padding: 40px;
 }
